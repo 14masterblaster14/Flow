@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "flow"
 include(":app")
 include(":flow1WithCompose")
+include(":flow2StateFlow")

@@ -8,6 +8,15 @@
       <entry key="flow1WithCompose">
         <State />
       </entry>
+      <entry key="flow2StateFlow">
+        <State />
+      </entry>
+      <entry key="flow2stateflow">
+        <State />
+      </entry>
+      <entry key="flow2stateflow1">
+        <State />
+      </entry>
     </value>
   </component>
 </project>

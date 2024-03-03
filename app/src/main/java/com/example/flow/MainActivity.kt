@@ -15,7 +15,8 @@ import kotlinx.coroutines.launch
 
 /**
  * A flow is a coroutine that can emit multiple values sequentially i.e stream of data.
- * It follows Producer, Consumer design pattern
+ * It follows Producer, Consumer design pattern.
+ * Flow also called as cold state flow as it won't start producing values unless someone won't start collecting it.
  *
  */
 
